@@ -1,0 +1,17 @@
+.navBar img{
+  height: 100px;
+}
+
+.menu{
+  padding: 0 20px !important;
+  border-left: 1px solid #666 !important;
+  text-transform: uppercase;
+}
+.banner{
+  height: 600px;
+  width: 50px;
+}
+.Banner img{
+  height: 600px;
+  width: 100%;
+}
